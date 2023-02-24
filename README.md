@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Elif. I am studying Computer Science at Bilket University.
 
 <!--
 **Elif-Tugce/Elif-Tugce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
